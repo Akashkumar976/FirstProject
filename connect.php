@@ -1,0 +1,10 @@
+<?php
+$fullName=$POST['fullName'];
+$email=$POST['email'];
+$phone=$POST['phone'];
+$dob=$POST['dob'];
+$gender=$POST['gender'];
+$course=$POST['course'];
+$address=$POST['address'];
+$terms=$POST['terms'];
+?>
